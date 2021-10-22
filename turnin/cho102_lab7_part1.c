@@ -129,6 +129,9 @@ void Tick() {
 		case Start:			
 			break;
 		case Init:
+			LCD_ClearScreen();
+			LCD_Cursor(1);
+			LCD_WriteData(PINB+'0');
 			break;
 		case A0_Press:
 			
