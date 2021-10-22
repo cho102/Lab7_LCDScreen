@@ -2,7 +2,7 @@
  *  Partner(s) Name: 
  *	Lab Section: 23
  *	Assignment: Lab #7  Exercise #2
- *	Exercise Description: [optional - include for your own benefit]
+ *	Exercise Description (VIDEO DEMO): https://youtu.be/GxqTc0_QYsQ
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
